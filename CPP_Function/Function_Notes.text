@@ -1,0 +1,6 @@
+Functions - in cpp
+When we have to do some work again and agin then we required fuctions 
+Function Syntex :-
+    returnType printHello(){
+        cout << " hello ";
+    }
