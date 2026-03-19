@@ -14,3 +14,8 @@ int decToBinary(int decTobin){
     return ans;
 }
 
+int main(){
+    int dec = 5;
+    cout << decToBinary(dec) << endl;
+    return 0;
+}
